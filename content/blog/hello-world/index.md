@@ -2,6 +2,7 @@
 title: Hello World
 date: 2015-05-01T22:12:03.284Z
 description: Hello World
+image: https://res.cloudinary.com/gorlipark/image/upload/v1612370144/gatsby-cloudinary/77d8df03-840b-4227-8134-0f9d5ecb4429.jpg
 ---
 This is my first post on my new fake blog! How exciting!
 
